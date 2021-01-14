@@ -1,6 +1,0 @@
-PIR_passiveBuzzer_CH.py
-PIR_passiveBuzzer_CH_circuit.png
-ADC0832_CH.py
-ADC0832_CH_circuit.png
-ADXL345_CH.py
-ADXL345_CH_circuit.png
