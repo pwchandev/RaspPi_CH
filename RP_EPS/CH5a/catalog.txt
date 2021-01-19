@@ -4,3 +4,4 @@ max7219_CH.py
 max7219_CH_circuit.png
 ds18b20_CH.py
 ds18b20_CH_circuit.png
+fonts/zpix-v3.1.1.ttf
