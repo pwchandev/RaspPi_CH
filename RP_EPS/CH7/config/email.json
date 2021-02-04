@@ -1,0 +1,8 @@
+{
+   "email_smtp_server": "smtp.xxxxx.com",
+   "email_smtp_port_ssl": 123,
+   "email_username": "xxxxxxxx@xxxxx.com",
+   "email_password": "xxxxxxxx",
+   "email_sendFrom": "aaaaaaaa@aaaaa.com",
+   "email_sendTo": "bbbbbbbb@bbbbb.com"
+}

@@ -1,0 +1,6 @@
+{
+   "twilio_sid": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+   "twilio_auth": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+   "twilio_to": "+aaaaaaaaaaa",
+   "twilio_from": "+bbbbbbbbbbb"
+}
