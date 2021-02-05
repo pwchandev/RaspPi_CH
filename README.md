@@ -11,3 +11,4 @@ YouTube video:
 - RP_EPS5a 第五集(上集)：樹莓派 (Raspberry Pi) 硬件軟件連接開發 (2/3): https://youtu.be/mUrcEUfs4Us
 - RP_EPS5b 第五集(下集)：樹莓派 (Raspberry Pi) 硬件軟件連接開發 (2/3): https://youtu.be/YLgZWQHexKw
 - RP_EPS6 第六集：樹莓派 (Raspberry Pi) 硬件軟件連接開發 (3/3):        https://youtu.be/2cSoWQIIa10
+- RP_EPS7 第7集：樹莓派 (Raspberry Pi) 電子通訊 - 電郵和短信:          https://youtu.be/43GBiOuhFpg
