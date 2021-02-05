@@ -10,4 +10,4 @@ YouTube video:
 - RP_EPS4b 第四集(下集)：樹莓派 (Raspberry Pi) 硬件軟件連接開發 (1/3): https://youtu.be/sMDbQmBN6Fw
 - RP_EPS5a 第五集(上集)：樹莓派 (Raspberry Pi) 硬件軟件連接開發 (2/3): https://youtu.be/mUrcEUfs4Us
 - RP_EPS5b 第五集(下集)：樹莓派 (Raspberry Pi) 硬件軟件連接開發 (2/3): https://youtu.be/YLgZWQHexKw
-- RP_EPS6 第六集：樹莓派 (Raspberry Pi) 硬件軟件連接開發 (3/3):        https://youtu.be/pPHiIcUoZxU
+- RP_EPS6 第六集：樹莓派 (Raspberry Pi) 硬件軟件連接開發 (3/3):        https://youtu.be/2cSoWQIIa10
